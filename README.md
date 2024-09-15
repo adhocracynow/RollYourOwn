@@ -11,3 +11,5 @@ Now imagine if you could pull that thread.  Find a tool that can do many of thos
 Even more importantly, this is a tool your competitors do not have.  Because they have not pulled that thread.  At least not yet.
 
 Roll your own.  This is the way.
+
+DISCUSS!
